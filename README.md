@@ -1,1 +1,1 @@
-3z dev owner
+ds 3z owner
